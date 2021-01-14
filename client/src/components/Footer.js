@@ -11,9 +11,9 @@ export const Footer = () => (
                 <div className="col l4 offset-l2 s12">
                     <h5 className="white-text">Links</h5>
                     <ul>
-                        <li><a className="grey-text text-lighten-3" href="#!">Repository</a></li>
-                        <li><a className="grey-text text-lighten-3" href="#!">Github</a></li>
-                        <li><a className="grey-text text-lighten-3" href="#!">LinkedIn</a></li>
+                        <li><a className="grey-text text-lighten-3" href="https://github.com/Andbet97/application-process-simulator">Repository</a></li>
+                        <li><a className="grey-text text-lighten-3" href="https://github.com/Andbet97">Github</a></li>
+                        <li><a className="grey-text text-lighten-3" href="https://www.linkedin.com/in/andres-betancurt-974586bb">LinkedIn</a></li>
                     </ul>
                 </div>
             </div>
